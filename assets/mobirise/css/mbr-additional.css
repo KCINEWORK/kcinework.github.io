@@ -794,49 +794,8 @@ a {
 .cid-urRLysP13x .card-box {
   text-align: center;
 }
-.cid-uQ0HUV6UOa {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #ffffff;
-}
-.cid-uQ0HUV6UOa .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uQ0HUV6UOa .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uQ0HUV6UOa .item-wrapper {
-  background-color: #fafafa;
-  margin-bottom: 2rem;
-  border-radius: 4px;
-  background: #fafafa;
-  transition: all 0.3s;
-  padding: 2rem;
-  padding-top: 3rem;
-}
-.cid-uQ0HUV6UOa .mbr-section-title,
-.cid-uQ0HUV6UOa .mbr-section-subtitle {
-  text-align: center;
-}
-@media (min-width: 992px) {
-  .cid-uQ0HUV6UOa .item-wrapper {
-    padding-left: 4rem;
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-uQ0HUV6UOa .item-wrapper {
-    padding: 1rem;
-    padding-top: 2rem;
-  }
-}
-.cid-uQ0HUV6UOa .price {
+.cid-urRLysP13x .mbr-text,
+.cid-urRLysP13x .mbr-section-btn {
   text-align: center;
 }
 .cid-uueqAZR1tg {
